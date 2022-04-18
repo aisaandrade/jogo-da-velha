@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: beige;
+}
+
+.quadrado{
+    text-align: center;
+    width: 50px;
+    background: #DDA0DD;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #DDA0DD;
+}
+
+.jogador, .vencedor{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background-color: #FFA07A;
+    cursor: pointer;
+}
